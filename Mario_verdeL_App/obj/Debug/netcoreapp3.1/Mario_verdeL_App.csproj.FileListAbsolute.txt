@@ -1,0 +1,45 @@
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\bin\Debug\netcoreapp3.1\Mario_verdeL_App.exe
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\bin\Debug\netcoreapp3.1\Mario_verdeL_App.deps.json
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\bin\Debug\netcoreapp3.1\Mario_verdeL_App.runtimeconfig.json
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\bin\Debug\netcoreapp3.1\Mario_verdeL_App.runtimeconfig.dev.json
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\bin\Debug\netcoreapp3.1\Mario_verdeL_App.dll
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\bin\Debug\netcoreapp3.1\Mario_verdeL_App.pdb
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.Form1.resources
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.Properties.Resources.resources
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.csproj.GenerateResource.cache
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.AssemblyInfoInputs.cache
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.AssemblyInfo.cs
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.csproj.CoreCompileInputs.cache
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.dll
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.pdb
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.genruntimeconfig.cache
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.tela_principal.resources
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.HomeControl1.resources
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.OfertaControl.resources
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.CatalogoControl1.resources
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.TelaInicialControl1.resources
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.CarinhoControl.resources
+E:\visual projetos\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.SuporteControl.resources
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\bin\Debug\netcoreapp3.1\Mario_verdeL_App.exe
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\bin\Debug\netcoreapp3.1\Mario_verdeL_App.deps.json
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\bin\Debug\netcoreapp3.1\Mario_verdeL_App.runtimeconfig.json
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\bin\Debug\netcoreapp3.1\Mario_verdeL_App.runtimeconfig.dev.json
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\bin\Debug\netcoreapp3.1\Mario_verdeL_App.dll
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\bin\Debug\netcoreapp3.1\Mario_verdeL_App.pdb
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.csprojAssemblyReference.cache
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.CarinhoControl.resources
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.CatalogoControl1.resources
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.Form1.resources
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.HomeControl1.resources
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.OfertaControl.resources
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.Properties.Resources.resources
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.SuporteControl.resources
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.TelaInicialControl1.resources
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.tela_principal.resources
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.csproj.GenerateResource.cache
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.AssemblyInfoInputs.cache
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.AssemblyInfo.cs
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.csproj.CoreCompileInputs.cache
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.dll
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.pdb
+C:\Users\kkkkkkkkkkkkkkkkkkkk\Desktop\Github\Mario_verdeL_App\Mario_verdeL_App\obj\Debug\netcoreapp3.1\Mario_verdeL_App.genruntimeconfig.cache

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CarinhoControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CatalogoControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="OfertaControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SuporteControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelaInicialControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="tela_principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

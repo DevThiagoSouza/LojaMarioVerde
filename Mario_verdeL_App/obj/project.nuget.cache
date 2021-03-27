@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJ120UynVmbwotZM0ICjEEgS4A9I9Ivm/TIdztq+JOz1nYcnjeClQzsssPcMRcLn62rfgj4jMd2pkRXwR3VOsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kkkkkkkkkkkkkkkkkkkk\\Desktop\\Github\\Mario_verdeL_App\\Mario_verdeL_App\\Mario_verdeL_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kkkkkkkkkkkkkkkkkkkk\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
